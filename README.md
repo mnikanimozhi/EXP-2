@@ -49,6 +49,7 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test:
 |KVL|S.NO|VOLTAGE(V)|CURRENT(A)|
+|---- |-----|----|----|---|-----|
 |1.|115|0.16|
 |2.|120|0.18|
 
