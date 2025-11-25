@@ -69,10 +69,13 @@ Tabulation for Load Test:
 |6. |8.1|189|
 
 Model graph:
+
 (i)Open circuit characteristics:
+
 ![1](https://github.com/user-attachments/assets/2541f31a-43ae-4b17-8494-5f78035f2cec)
 
-Load Characteristics:
+(ii)Load Characteristics:
+
 ![2](https://github.com/user-attachments/assets/fcf29ba0-0cec-4e73-960d-610ba0e228c5)
 
 
